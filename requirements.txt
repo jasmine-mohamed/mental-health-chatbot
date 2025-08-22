@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+transformers
+torch
+sentence-transformers
+pydantic
+requests
+langchain
+llama-index
+haystack
