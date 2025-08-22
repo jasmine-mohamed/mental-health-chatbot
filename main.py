@@ -1,7 +1,7 @@
 import os 
 from fastapi import FastAPI
 from dotenv import load_dotenv
-from Models import ChatRequest
+from models import ChatRequest
 from chat_engine import get_response
 from suicidal import contains_crisis_keywords
 from logger import log_chat
@@ -30,6 +30,7 @@ def chat_with_memory(request: ChatRequest):
     user_query=request.query
 
     if contains_crisis_keywords(user_query):
+        help_message = "If you're experiencing a mental health crisis, please contact emergency services or call 988 (Suicide & Crisis Lifeline) immediately. Your safety is important."
         log_chat(session_id,user_query,help_message,is_crisis=True)
         return{"response":help_message}
     

@@ -1,0 +1,81 @@
+timestamp,session_id,query,response,crisis_flag
+2025-08-23T00:13:50.620372,test123,"Hello, how are you?",Hello! I'm here to provide mental health support and information. How are you feeling today?,False
+2025-08-23T00:15:32.615898,test123,I am feeling sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:15:37.516655,test123,I am feeling anxious,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:16:30.620565,test123,I am feeling sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:16:36.442172,test123,I am feeling anxious,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:18:57.778876,test123,I am feeling sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:19:04.997965,test123,I am feeling anxious,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:21:07.932052,test123,I am feeling sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:21:13.125794,test123,I am feeling anxious,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:37:00.143292,test123,I am feeling sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:39:05.589636,session_1755898739571_tdlhe88u1,hi,Hello! I'm here to provide mental health support and information. How are you feeling today?,False
+2025-08-23T00:39:11.530987,session_1755898739571_tdlhe88u1,sad,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:39:25.385767,session_1755898739571_tdlhe88u1,im suicidal,"If you're experiencing a mental health crisis, please contact emergency services or call 988 (Suicide & Crisis Lifeline) immediately. Your safety is important.",True
+2025-08-23T00:39:34.763793,session_1755898739571_tdlhe88u1,happy,"I understand you're going through a difficult time. While I can provide general information, it's important to speak with a mental health professional for personalized support. Consider reaching out to a therapist, counselor, or your healthcare provider.",False
+2025-08-23T00:39:43.902750,session_1755898739571_tdlhe88u1,okay,"I understand you're going through a difficult time. While I can provide general information, it's important to speak with a mental health professional for personalized support. Consider reaching out to a therapist, counselor, or your healthcare provider.",False
+2025-08-23T00:39:58.232037,session_1755898739571_tdlhe88u1,how are you,Hello! I'm here to provide mental health support and information. How are you feeling today?,False
+2025-08-23T00:40:13.964234,session_1755898739571_tdlhe88u1,I'm anxious what should I do,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:41:10.922504,test123,"Hello, how are you?",Hello! I'm here to provide mental health support and information. How are you feeling today?,False
+2025-08-23T00:41:16.446285,test123,I am feeling very anxious and worried,"Anxiety is a common mental health concern. Some strategies that may help include deep breathing exercises, mindfulness meditation, regular exercise, and maintaining a consistent sleep schedule. It's important to talk to a mental health professional if anxiety is significantly impacting your daily life.",False
+2025-08-23T00:41:24.809175,test123,I cannot sleep at night,"Good sleep hygiene includes maintaining a regular sleep schedule, creating a relaxing bedtime routine, avoiding screens before bed, keeping your bedroom cool and dark, and avoiding caffeine late in the day.",False
+2025-08-23T00:41:31.085342,test123,I feel lonely and isolated,"Loneliness can be challenging. Consider reaching out to friends or family, joining clubs or groups with shared interests, volunteering, or seeking professional support. Remember that it's okay to ask for help.",False
+2025-08-23T00:41:36.898477,test123,What is depression?,"Depression is a serious mental health condition that affects how you feel, think, and behave. Symptoms may include persistent sadness, loss of interest in activities, changes in appetite or sleep, and feelings of worthlessness. Professional help from a therapist or psychiatrist is crucial for effective treatment.",False
+2025-08-23T00:41:54.203898,test123,I am feeling overwhelmed with work,"Stress management techniques include regular exercise, deep breathing, progressive muscle relaxation, time management, setting boundaries, and practicing self-care. Finding what works best for you is key.",False
+2025-08-23T00:42:00.845632,test123,Tell me a joke,"I understand you're going through a difficult time. While I can provide general information, it's important to speak with a mental health professional for personalized support. Consider reaching out to a therapist, counselor, or your healthcare provider.",False
+2025-08-23T00:42:08.999818,session_1755898739571_tdlhe88u1,I am feeling overwhelmed with work,"Stress management techniques include regular exercise, deep breathing, progressive muscle relaxation, time management, setting boundaries, and practicing self-care. Finding what works best for you is key.",False
+2025-08-23T00:43:46.796678,test123,"Hello, how are you?",Hello! I'm here to provide mental health support and information. How are you feeling today?,False
+2025-08-23T00:44:09.492295,test123,"Hello, how are you?",Hi there! 💙 I'm so glad you reached out. How are you really feeling today? I'm here to listen and support you.,False
+2025-08-23T00:44:17.779603,test123,I am feeling very anxious and worried,"I can hear how overwhelming this anxiety feels right now. It's completely normal to feel this way, and you're not alone. 💙
+
+Some gentle things that might help:
+• Take a few slow, deep breaths with me
+• Try some gentle stretching or a short walk
+• Write down what's worrying you
+• Talk to someone you trust
+
+Remember, it's okay to ask for help. If this anxiety is really affecting your daily life, talking to a mental health professional can make such a difference. You deserve support!",False
+2025-08-23T00:44:29.431261,test123,I feel really sad and hopeless,"I'm so sorry you're going through this. Depression can feel like carrying a heavy weight, and it's not your fault. 💙
+
+You're incredibly brave for reaching out. Some things that might help:
+• Be gentle with yourself - you don't have to be 'productive' right now
+• Try to maintain small routines, even just getting out of bed
+• Reach out to friends or family, even if it's hard
+• Consider talking to a therapist or counselor
+
+You matter, and your feelings are valid. Professional help can be life-changing - you deserve to feel better.",False
+2025-08-23T00:47:02.373029,session_1755898739571_tdlhe88u1,HI,Hi there! 💙 I'm so glad you reached out. How are you really feeling today? I'm here to listen and support you.,False
+2025-08-23T00:47:18.629565,session_1755898739571_tdlhe88u1,im lonley,"I can hear that you're going through something difficult, and I want you to know that your feelings matter. 💙
+
+While I'm here to listen and support you, sometimes we need more specialized help. Consider reaching out to a mental health professional - they have the training to help you navigate what you're experiencing.
+
+You're not alone, and you deserve support. What's one small thing you can do to take care of yourself today?",False
+2025-08-23T00:47:43.973458,session_1755898739571_tdlhe88u1,my name is jasmine,"I can hear that you're going through something difficult, and I want you to know that your feelings matter. 💙
+
+While I'm here to listen and support you, sometimes we need more specialized help. Consider reaching out to a mental health professional - they have the training to help you navigate what you're experiencing.
+
+You're not alone, and you deserve support. What's one small thing you can do to take care of yourself today?",False
+2025-08-23T00:47:56.806149,session_1755898739571_tdlhe88u1,what,"I can hear that you're going through something difficult, and I want you to know that your feelings matter. 💙
+
+While I'm here to listen and support you, sometimes we need more specialized help. Consider reaching out to a mental health professional - they have the training to help you navigate what you're experiencing.
+
+You're not alone, and you deserve support. What's one small thing you can do to take care of yourself today?",False
+2025-08-23T00:49:22.705888,test123,My name is Jasmine,"Nice to meet you, Jasmine! 💙 That's such a beautiful name. I'm here to listen and support you. What would you like to talk about today?",False
+2025-08-23T00:49:30.372653,test123,what,I want to make sure I understand you correctly. 💙 Sometimes I need a little more context to give you the best support. Can you explain what you mean?,False
+2025-08-23T00:49:37.020069,test123,I am feeling anxious,Jasmine! 💙 What a lovely name to meet. I'm here to be your listening ear and support. What's on your mind today?,False
+2025-08-23T00:49:46.032071,test123,I feel very worried and nervous,"I can hear how overwhelming this anxiety feels right now. It's completely normal to feel this way, and you're not alone. 💙
+
+Some gentle things that might help:
+• Take a few slow, deep breaths with me
+• Try some gentle stretching or a short walk
+• Write down what's worrying you
+• Talk to someone you trust
+
+Remember, it's okay to ask for help. If this anxiety is really affecting your daily life, talking to a mental health professional can make such a difference. You deserve support!",False
+2025-08-23T00:49:53.951520,test123,Hello there,Hello! 💙 It's wonderful that you're here. What's on your mind today? I'm ready to listen.,False
+2025-08-23T00:50:26.181804,session_1755898739571_tdlhe88u1,hi,Hi! 💙 Thanks for reaching out. I'm here to listen and support you. What would you like to talk about?,False
+2025-08-23T00:50:33.881068,session_1755898739571_tdlhe88u1,im jojo,"I'm here to listen and support you through whatever you're going through. 💙
+
+Sometimes the best thing we can do is talk about what's on our minds. What would be most helpful for you right now? I'm ready to listen.",False
+2025-08-23T00:50:43.423645,session_1755898739571_tdlhe88u1,what,I want to make sure I understand you correctly. 💙 Sometimes I need a little more context to give you the best support. Can you explain what you mean?,False
+2025-08-23T00:50:56.357594,session_1755898739571_tdlhe88u1,nothing,Hey there! 💙 I'm so happy you decided to chat. How are you doing right now?,False
